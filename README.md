@@ -40,17 +40,15 @@ Clone the repository:
 
 Bash
 
-git clone [https://github.com/MilanZC/my-todo-app.git](https://github.com/MilanZC/my-todo-app.git)
+git clone [https://github.com/MilanZC/my-todo-app.git]
+
 Setup Backend:
 
 Navigate to the backend folder.
-
 Install dependencies: npm install
-
 Start the server: node server.js
 
 Run Frontend:
-
 Simply open frontend/index.html in your browser.
 
 👤 Author
